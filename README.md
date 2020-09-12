@@ -1,2 +1,1 @@
-# homework3-password
-Password Generator 
+In this homework assignment, I used JavaScript to create a password generator. The user has a choice of how many characters they want it to be (between 8-128), if they'd like to include upper case letters, lower case, numbers and special characters. According to how the user answers each alert, they will recieve a random generated password.
